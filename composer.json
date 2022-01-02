@@ -1,4 +1,11 @@
 {
+    "name": "safaaemam/miniMVC",
+    "description": "miniMVC",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    },
+    
     "autoload": {
         "psr-4": {
             "MVC\\": "app"
